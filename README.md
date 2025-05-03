@@ -1,2 +1,0 @@
-# DormDineProject
-DDP
